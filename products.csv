@@ -1,0 +1,21 @@
+﻿product_id,product_name,category,unit_price
+1,Coca Cola,Beverages,650
+2,Milo,Beverages,1200
+3,Pepsi,Beverages,600
+4,Chivita,Beverages,1500
+5,Plantain Chips,Snacks,700
+6,Chocolate Bar,Snacks,500
+7,Biscuits,Snacks,400
+8,Groundnut,Snacks,300
+9,Detergent,Household,2500
+10,Toilet Cleaner,Household,1800
+11,Dish Wash,Household,1500
+12,Tissue Paper,Household,1200
+13,Soap,Personal Care,800
+14,Toothpaste,Personal Care,1200
+15,Body Lotion,Personal Care,3500
+16,Yogurt,Dairy,900
+17,Cheese,Dairy,2200
+18,Sardine Tin,Canned Foods,750
+19,Spaghetti,Grocery,850
+20,Rice (5kg),Grocery,4500
